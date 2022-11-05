@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/guilherme-moraes-siqueira-78122b204/" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iubenda.com%2Fen%2Fhelp%2F21070-linkedin-gdpr-how-to-be-compliant&psig=AOvVaw1DGI12REx7bA2uADYWJkRP&ust=1667744971604000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDw4aegl_sCFQAAAAAdAAAAABAD"</a>
+<a href="https://www.linkedin.com/in/guilherme-moraes-siqueira-78122b204/" target="_blank"><img src="https://help.iubenda.com/wp-content/uploads/2020/05/linkedin-300x73.png"</a>
 </div>
   
 
