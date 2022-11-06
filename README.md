@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/guilherme-moraes-siqueira-78122b204/" target="_blank"><img src="https://help.iubenda.com/wp-content/uploads/2020/05/linkedin-300x73.png"</a>
+<a href="https://www.linkedin.com/in/guilherme-moraes-siqueira-78122b204/" target="_blank"><img height= 20px src="https://help.iubenda.com/wp-content/uploads/2020/05/linkedin-300x73.png"</a>
 </div>
   
 
